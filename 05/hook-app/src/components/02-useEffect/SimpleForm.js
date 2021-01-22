@@ -30,6 +30,7 @@ export const SimpleForm = () => {
             [ target.name ] : target.value
         })
     }
+    
 
     return (
         <>

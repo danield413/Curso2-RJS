@@ -19,7 +19,7 @@ export const Message = () => {
         return () => {
             window.removeEventListener('mousemove', mouseMove)
         }
-    }, [])
+    }, []);
 
 
 
